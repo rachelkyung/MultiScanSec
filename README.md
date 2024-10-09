@@ -6,8 +6,11 @@
 
 **필독**
 1. 이 코드는 보안 테스트 및 취약점 검사를 위해 제공됩니다. 무단으로 다른 사람의 웹사이트를 공격하거나 검사를 수행하는 것은 불법이며 법적 책임이 따를 수 있습니다. 본인의 소유 웹사이트 또는 사전 동의를 받은 웹사이트에 대해서만 사용해야합니다. 사용자는 본 코드를 사용할 때 발생하는 모든 법적 문제에 대한 책임이 있으며, 본 코드의 제작자인 저는 어떠한 법적 책임도 묻지 않습니다.
+
 2. 본 코드는 학습 및 연구 목적으로 설계되었습니다. 프로덕션 환경에서 직접 사용하기 전에 테스트 환경에서 충분히 검증해야합니다.
+
 3. 이 도구는 특정 취약점을 테스트하는 데 사용되므로, 사용 시 웹사이트의 정상 운영에 영향을 줄 수 있습니다.
+  
 4. 개인정보를 포함한 요청을 보내는 경우, 해당 정보를 안전하게 보호하고 필요한 경우 암호화된 방식으로 처리하시면 됩니다.
 
 **사용법**
@@ -36,7 +39,8 @@ This code is provided as a basic example, and you may modify it as needed to sui
 2.This code is designed for educational and research purposes. It should be thoroughly tested in a test environment before being used in a production environment.
 
 3.This tool is used to test specific vulnerabilities, and its use may affect the normal operation of the website.
-If sending requests that include personal information, ensure that the information is securely protected and, if necessary, handled in an encrypted manner.
+
+4.If sending requests that include personal information, ensure that the information is securely protected and, if necessary, handled in an encrypted manner.
 
 **Usage**
 
