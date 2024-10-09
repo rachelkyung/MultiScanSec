@@ -12,7 +12,7 @@
 
 **사용법**
 예시 코드 수정 후, 터미널이나 cmd에서 파일이 있는 경로로 이동 후, "python kor.py" 입력하시고 실행하시면 됩니다.
-![image](https://github.com/user-attachments/assets/e7f3833d-1667-4315-9c62-2aa11673d86e)
+![374962600-e7f3833d-1667-4315-9c62-2aa11673d86e](https://github.com/user-attachments/assets/ee68bbc4-5c9b-41c8-94d9-7a2f3df606e5)
 정상적으로 실행이 완료되었다면, 위 사진과 같이 나옵니다.
 
 무료로 누구나 사용 할 수 있게 배포 한 것이지만, 너무나도 고마운 마음에 뭐라도 해주고 싶다 하시는 분들은 크런키 더블크런치바 쿠키 앤 크림, 허쉬 쿠키 앤 크림으로 받겠습니다.
@@ -38,7 +38,7 @@ If sending requests that include personal information, ensure that the informati
 **Usage**
 
 After modifying the example code, navigate to the directory containing the file in your terminal or command prompt, and run it by entering "python Eng.py"
-![image](https://github.com/user-attachments/assets/9dc9d9bf-7a9c-4d95-ad88-7f4764b43dbb)
+![374965309-9dc9d9bf-7a9c-4d95-ad88-7f4764b43dbb](https://github.com/user-attachments/assets/b37cc085-68a7-4a6a-92c0-7943f31a7393)
 If it runs successfully, it should look like the image below.
 
 This has been distributed for free for anyone to use, but if you're feeling really grateful and would like to show your appreciation, I would gladly accept supportive messages.
