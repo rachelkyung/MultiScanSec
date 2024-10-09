@@ -32,7 +32,9 @@ This code is provided as a basic example, and you may modify it as needed to sui
 **Important Notes**
 
 1.This code is provided for security testing and vulnerability scanning purposes. Performing unauthorized attacks or tests on others' websites is illegal and may result in legal consequences. You should only use it on your own websites or those for which you have obtained prior consent. Users are responsible for any legal issues arising from the use of this code, and I, the creator of this code, do not accept any legal responsibility.
+
 2.This code is designed for educational and research purposes. It should be thoroughly tested in a test environment before being used in a production environment.
+
 3.This tool is used to test specific vulnerabilities, and its use may affect the normal operation of the website.
 If sending requests that include personal information, ensure that the information is securely protected and, if necessary, handled in an encrypted manner.
 
