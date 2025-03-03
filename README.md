@@ -20,7 +20,6 @@ After modifying the example code, navigate to the directory containing the file 
 ![374965309-9dc9d9bf-7a9c-4d95-ad88-7f4764b43dbb](https://github.com/user-attachments/assets/b37cc085-68a7-4a6a-92c0-7943f31a7393)
 If it runs successfully, it should look like the image below.
 
-This has been distributed for free for anyone to use, but if you're feeling really grateful and would like to show your appreciation, I would gladly accept supportive messages.
 
 If you find it difficult or inconvenient to use, feel free to contact me at ky3n8n4y00n@gmail.com, insta.ky3n8n4y00n, or discord.traditionalgangjeong, and I'll do my best to assist you. Please note that replies might be delayed if you contact me via email.
 
